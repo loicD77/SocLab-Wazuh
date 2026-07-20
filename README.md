@@ -1,12 +1,14 @@
 # SOC Lab - Wazuh SIEM avec VirtualBox
 
+![Wazuh dashboard avec activités](screenshots/10-wazuh-dashboard-avec-activités.png)
+
 ## Présentation
 
 Ce projet consiste à concevoir un laboratoire SOC (Security Operations Center) virtuel afin de découvrir le fonctionnement d'un SIEM (Security Information and Event Management) avec Wazuh.
 
 L'objectif est de centraliser les événements de sécurité provenant d'une machine cliente et de les visualiser dans un tableau de bord.
 
-![Wazuh dashboard avec activités](screenshots/10-wazuh-dashboard-avec-activités.png)
+
 
 
 ---
