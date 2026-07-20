@@ -6,6 +6,9 @@ Ce projet consiste à concevoir un laboratoire SOC (Security Operations Center) 
 
 L'objectif est de centraliser les événements de sécurité provenant d'une machine cliente et de les visualiser dans un tableau de bord.
 
+![Wazuh dashboard avec activités](screenshots/10-wazuh-dashboard-avec-activités.png)
+
+
 ---
 
 ## Architecture
